@@ -1,3 +1,3 @@
 # henrythach.github.io
 
-Splash page for my github repos.
+Personal website
